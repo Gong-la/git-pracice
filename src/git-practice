@@ -1,2 +1,5 @@
 main-3r: c 1
 main-3r: c 2
+rebase-3: commit 1
+rebase-3: commit 2
+rebase-3: commit 3
