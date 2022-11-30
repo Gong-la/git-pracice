@@ -1,3 +1,5 @@
+main-1-m: commit-1
+main-1-m: commit-2
 merge-1: commit-1
 merge-1: commit-2
 merge-1: commit-3
