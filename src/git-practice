@@ -3,3 +3,6 @@ merge main
 main rebase
 rebase-branch
 222-rebase
+222-rebase-branch
+rebase-branch-2: commit-2
+rebase-branch-2: commit-3
