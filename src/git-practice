@@ -3,3 +3,4 @@ main: commit 2
 main: commit 3
 rebase-1: commit 1
 rebase-1: commit 2
+rebase-1: commit 3
